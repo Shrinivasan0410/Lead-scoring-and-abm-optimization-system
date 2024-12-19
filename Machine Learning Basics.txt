@@ -1,0 +1,38 @@
+1. What is the primary goal of machine learning?
+
+A: The primary goal of machine learning is to enable computers to learn from data and improve their performance on specific tasks over time.
+
+2. Supervised learning involves training models on labeled data, where the correct answers are provided, and the model learns to map input data to output labels.
+
+A: Unsupervised learning analyzes unlabeled data to discover patterns or relationships without explicit output labels.
+Supervised learning involves training models on labeled data, where the correct answers are provided, and the model learns to map input data to output labels.
+
+3. Select two examples of applications for machine learning in real-world scenarios.
+
+A: In marketing, machine learning is utilized for customer segmentation, allowing businesses to target specific groups with personalized advertisements.
+Machine learning is applied in healthcare for disease prediction and diagnosis, using patient data to identify potential health issues.
+
+4. Artificial Intelligence is _____
+
+A: a branch of computer science that constitutes underlying technology that enables computers to simulate human intelligence
+
+5. Which of the following statements about machine learning is TRUE?
+
+A: Machine learning is the intelligence technology that provides computers with advanced abilities to execute processes without being specifically programmed to do so
+
+6. 
+True or False: The late 1980s marked a resurgence in the development of artificial intelligence (AI), driven by advancements in areas like chess and computer vision.
+
+A: True
+
+7. Why is data gathering a critical first step in the machine learning workflow?
+
+A: Data gathering provides the foundation for training and testing models, ensuring they are representative of real-world scenarios
+
+8. What is the purpose of the training and testing phases in the workflow?
+
+A: The purpose of the training and testing phases in the workflow is to ensure that the model can learn patterns from the data and generalize its knowledge to make accurate predictions on new, unseen data.
+
+9. Why is model evaluation crucial in the machine learning workflow?
+
+A: Model evaluation measures the performance of the model and ensures its effectiveness on new, unseen data.
